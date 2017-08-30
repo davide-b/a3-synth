@@ -508,37 +508,37 @@ Entry Wire Line
 Entry Wire Line
 	8900 4900 9000 5000
 Text Label 8650 3400 0    60   ~ 0
-K1R
+K5G
 Text Label 8650 3500 0    60   ~ 0
-K2R
-Text Label 8650 3600 0    60   ~ 0
-K3R
-Text Label 8650 3700 0    60   ~ 0
-K4R
-Text Label 8650 3800 0    60   ~ 0
 K5R
-Text Label 8650 3900 0    60   ~ 0
+Text Label 8650 3600 0    60   ~ 0
+K6G
+Text Label 8650 3700 0    60   ~ 0
 K6R
-Text Label 8650 4000 0    60   ~ 0
+Text Label 8650 3800 0    60   ~ 0
+K7G
+Text Label 8650 3900 0    60   ~ 0
 K7R
+Text Label 8650 4000 0    60   ~ 0
+K8G
 Text Label 8650 4100 0    60   ~ 0
 K8R
 Text Label 8650 4200 0    60   ~ 0
-K1G
+K4R
 Text Label 8650 4300 0    60   ~ 0
-K2G
-Text Label 8650 4400 0    60   ~ 0
-K3G
-Text Label 8650 4500 0    60   ~ 0
 K4G
+Text Label 8650 4400 0    60   ~ 0
+K3R
+Text Label 8650 4500 0    60   ~ 0
+K3G
 Text Label 8650 4600 0    60   ~ 0
-K5G
+K2R
 Text Label 8650 4700 0    60   ~ 0
-K6G
+K2G
 Text Label 8650 4800 0    60   ~ 0
-K7G
+K1R
 Text Label 8650 4900 0    60   ~ 0
-K8G
+K1G
 $Comp
 L R R33
 U 1 1 59A6DD8A
