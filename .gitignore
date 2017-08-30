@@ -3,3 +3,4 @@
 *-rescue.lib
 *.dcm
 *.bck
+*.kicad_pcb-bak
