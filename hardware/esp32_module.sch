@@ -80,23 +80,23 @@ Text HLabel 8050 4100 2    60   Output ~ 0
 SDA
 Text HLabel 8050 4000 2    60   Output ~ 0
 SCL
-Text HLabel 8050 3400 2    60   Output ~ 0
+Text HLabel 8050 3200 2    60   Output ~ 0
 LRCLK
-Text HLabel 8050 3300 2    60   Output ~ 0
+Text HLabel 8050 4500 2    60   Output ~ 0
 BCLK
-Text HLabel 8050 3600 2    60   Output ~ 0
+Text HLabel 8050 4300 2    60   Output ~ 0
 DACDAT
 Text HLabel 8050 3900 2    60   Output ~ 0
 ROW_C
 Text HLabel 8050 3800 2    60   Output ~ 0
 ROW_D
-Text HLabel 8050 2800 2    60   Output ~ 0
-COL_D
-Text HLabel 8050 2900 2    60   Output ~ 0
-COL_C
 Text HLabel 8050 3000 2    60   Output ~ 0
-COL_OE
+COL_D
 Text HLabel 8050 3100 2    60   Output ~ 0
+COL_C
+Text HLabel 8050 2900 2    60   Output ~ 0
+COL_OE
+Text HLabel 8050 2800 2    60   Output ~ 0
 COL_LAT
 Text HLabel 8050 4900 2    60   Output ~ 0
 GPIO0
@@ -438,9 +438,9 @@ F 3 "" H 6250 2800 60  0001 C CNN
 	1    6250 2800
 	1    0    0    -1  
 $EndComp
-NoConn ~ 8050 3200
-Text HLabel 8050 4300 2    60   Output ~ 0
+NoConn ~ 8050 3600
+Text HLabel 8050 3400 2    60   Output ~ 0
 SYNC_OUT
-Text HLabel 8050 4500 2    60   Input ~ 0
+Text HLabel 8050 3300 2    60   Input ~ 0
 SYNC_IN
 $EndSCHEMATC
