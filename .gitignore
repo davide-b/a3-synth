@@ -4,3 +4,4 @@
 *.dcm
 *.bck
 *.kicad_pcb-bak
+hardware/gerbers/
